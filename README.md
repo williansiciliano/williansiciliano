@@ -12,7 +12,7 @@ Assim como muitos, me encantei de imediato por Front-end 😍.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williansiciliano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ## Tecnologias que utilizo: 
+  ## Tecnologias e ferramentas que utilizo: 
   <div style="display: inline_block"><br>
   <img align="center" alt="will-html" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="will-css" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
@@ -20,6 +20,7 @@ Assim como muitos, me encantei de imediato por Front-end 😍.
   <img align="center" alt="will-github" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="will-vscode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="will-c" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="will-gimp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg">
   
     
   ## Tecnologias que estou aprendendo:   
