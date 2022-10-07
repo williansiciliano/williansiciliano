@@ -1,4 +1,4 @@
-## Olá! 👋 Eu sou o Willian Siciliano! Bem vindo(a) ao meu perfil! 😁
+## Olá! 👋 Eu sou o Willian Siciliano! Bem-vindo(a) ao meu perfil! 😁
 
 Sou do Rio de Janeiro e sou formado em Engenharia Civil pela UERJ. Não consegui espaço no mercado 😥. Optei, então, por cursar ADM.
 
