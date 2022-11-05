@@ -2,7 +2,7 @@
 
 Sou do Rio de Janeiro e sou formado em Engenharia Civil pela UERJ. Não consegui espaço no mercado 😥. Optei, então, por cursar ADM.
 
-Estagiei em alguns locais, trabalhei como assistente administrativo, no entanto, não estava contente 🤷🏾‍♂️. Resolvi me dar mais uma chance de estudar algo que gostasse 🤓! Tranquei a faculdade de ADM no penúltimo período e, hoje, curso a faculdade de Análise e Desenvolvimento de Sistemas (bem como cursos paralelos em plataformas como Estudonauta, Curso em Vídeo, Alura, Udemy, e também YouTube) . 
+Estagiei em alguns locais, trabalhei como assistente administrativo, no entanto, não estava contente 🤷🏾‍♂️. Resolvi me dar mais uma chance de estudar algo que gostasse 🤓! Tranquei a faculdade de ADM no penúltimo período e, hoje, curso a faculdade de Análise e Desenvolvimento de Sistemas (bem como cursos paralelos em plataformas como Estudonauta, Curso em Vídeo, Rocketseat, Alura, Udemy, e também YouTube) . 
 
 Assim como muitos, me encantei de imediato por Front-end 😍.
 
