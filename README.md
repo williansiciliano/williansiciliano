@@ -26,6 +26,16 @@ Assim como muitos, me encantei de imediato por Front-end 😍.
   ## Tecnologias que estou aprendendo:   
   <img align="center" alt="will-js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
+  ## Portfólio (Principais Projetos)
+  - <a href="https://williansiciliano.github.io/projeto-calendario-copa-2022/">Projeto Calendário da Copa do Mundo da FIFA - Catar 2022</a>
+  
+  - <a href="https://williansiciliano.github.io/projeto-social/">Projeto Redes Sociais</a>
+  
+  - <a href="https://williansiciliano.github.io/projeto-android/">Projeto Android</a>
+  
+  - <a href="https://williansiciliano.github.io/projeto-cordel/">Projeto Cordel</a>
+  
+  
   ## Redes Sociais
     
   <div style="display: inline_block"><br> 
@@ -35,3 +45,7 @@ Assim como muitos, me encantei de imediato por Front-end 😍.
   <img align="left" alt="will-pic" height="150" style="border-radius:50px;"        src="https://cdn.discordapp.com/attachments/605480480917291060/1026391182038802432/caractura_will_anime.png">
     
   </div>
+  
+  
+  
+  
