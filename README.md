@@ -27,7 +27,6 @@ Assim como muitos, me encantei de imediato por Front-end 😍.
   <img align="center" alt="will-js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
   ## Portfólio (Principais Projetos)
-  - <a href="https://williansiciliano.github.io/projeto-calendario-copa-2022/">Projeto Calendário da Copa do Mundo da FIFA - Catar 2022</a>
   
   - <a href="https://williansiciliano.github.io/projeto-social/">Projeto Redes Sociais</a>
   
