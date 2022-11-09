@@ -1,4 +1,4 @@
-## Olá! 👋 Eu sou o Willian Siciliano! Bem-vindo(a) ao meu perfil! 😁
+## 👋 Olá!  Eu sou o Willian Siciliano! Bem-vindo(a) ao meu perfil! 😁
 
 Sou do Rio de Janeiro e sou formado em Engenharia Civil pela UERJ. Não consegui espaço no mercado 😥. Optei, então, por cursar ADM.
 
@@ -12,7 +12,7 @@ Assim como muitos, me encantei de imediato por Front-end 😍.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williansiciliano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ## Tecnologias e ferramentas que utilizo: 
+  ## 💻 Tecnologias e ferramentas que utilizo: 
   <div style="display: inline_block"><br>
   <img align="center" alt="will-html" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="will-css" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
@@ -23,10 +23,12 @@ Assim como muitos, me encantei de imediato por Front-end 😍.
   <img align="center" alt="will-gimp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg">
   
     
-  ## Tecnologias que estou aprendendo:   
+  ## 📖 Tecnologias que estou aprendendo:   
   <img align="center" alt="will-js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
-  ## Portfólio (Principais Projetos)
+  ## 📂 Portfólio (Principais Projetos)
+    
+  - <a href="https://williansiciliano.github.io/projeto-calendario-copa-2022/">Projeto Calendário da Copa do Mundo 2022</a>  
   
   - <a href="https://williansiciliano.github.io/projeto-social/">Projeto Redes Sociais</a>
   
@@ -35,7 +37,7 @@ Assim como muitos, me encantei de imediato por Front-end 😍.
   - <a href="https://williansiciliano.github.io/projeto-cordel/">Projeto Cordel</a>
   
   
-  ## Redes Sociais
+  ## 🤝 Redes Sociais
     
   <div style="display: inline_block"><br> 
   <a href="https://www.instagram.com/williansiciliano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
