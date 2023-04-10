@@ -44,6 +44,8 @@ Assim como muitos, me encantei de imediato por Front-end 😍.
   - <a href="https://williansiciliano.github.io/projeto-android/">Projeto Android</a>
   
   - <a href="https://williansiciliano.github.io/projeto-cordel/">Projeto Cordel</a>
+    
+  - <a href="https://williansiciliano.github.io/projeto-checkbox-switch/">Projeto Checkbox Switch</a>
   
   
   ## 🤝 Redes Sociais
