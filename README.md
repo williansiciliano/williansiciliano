@@ -1,4 +1,4 @@
-![image](https://github.com/williansiciliano/williansiciliano/assets/110183858/28a6aeb0-0908-432b-bfcb-497db38abf9c)## 👋 Olá!  Eu sou o Willian Siciliano! Bem-vindo(a) ao meu perfil! 😁
+## 👋 Olá!  Eu sou o Willian Siciliano! Bem-vindo(a) ao meu perfil! 😁
 
 Sou do Rio de Janeiro e sou formado em Engenharia Civil pela UERJ. Não consegui espaço no mercado 😥. Optei, então, por cursar ADM.
 
@@ -48,10 +48,12 @@ Assim como muitos, me encantei de imediato por Front-end 😍.
   ## 🤝 Redes Sociais
     
   <div style="display: inline_block"><br> 
+  <img align="left" alt="will-pic" height="150" style="border-radius:50px;" src="https://github.com/williansiciliano/williansiciliano/assets/110183858/28a6aeb0-0908-432b-bfcb-497db38abf9c">
   <a href="https://www.instagram.com/williansiciliano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/willian-siciliano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/willian-siciliano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
-  <img align="left" alt="will-pic" height="150" style="border-radius:50px;" src="https://imgur.com/aTgM9Ow">
+
+  
 
   
     
