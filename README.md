@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&pause=1000&color=00809F&width=450&lines=Olá%2C+eu+sou+o+Willian!;Desenvolvedor+Frontend;Seja+bem-vindo(a)+ao+meu+perfil!;)](https://git.io/typing-svg)
 
-Sou do Rio de Janeiro e sou formado em Engenharia Civil pela UERJ. Não consegui espaço no mercado 😥. Optei, então, por cursar ADM.
+Sou do Rio de Janeiro e sou formado em Engenharia Civil pela UERJ. Não consegui espaço no mercado 😥. Optei, então, por cursar Administração.
 
 Estagiei em alguns locais, trabalhei como assistente administrativo, no entanto, não estava contente 🤷🏾‍♂️. Resolvi me dar mais uma chance de estudar algo que gostasse 🤓! Tranquei a faculdade de ADM no penúltimo período para cursar Análise e Desenvolvimento de Sistemas. 
 
-Hoje, já formado, trabalho como Desenvolvedor Frontend e busco me desenvolver cada vez mais através de cursos, vídeos no Youtube, artigos.
+Hoje, já formado em Análise e Desenvolvimento de Sistemas, trabalho como Desenvolvedor Frontend e busco me desenvolver cada vez mais através de cursos, vídeos no Youtube, artigos, etc...
 
-Assim como muitos, me encantei de imediato por Frontend 😍. 
+Assim como muitos, me encantei de imediato por Frontend 😍. Sigo tentando me desenvolver ao máximo nessa stack ao máximo enquanto dedico uma parte de meu foco para o backend. 
 
 ## 🛤️ Roadmap de Estudos
 
