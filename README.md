@@ -68,23 +68,21 @@ Assim como muitos, me encantei de imediato por Frontend 😍. Sigo tentando me d
 
   ## 📂 Portfólio (Principais Projetos)
 
-  - <a href="https://williansiciliano.github.io/git-fav/" target="_blank">Projeto Github Favorites</a>
+  - <a href="https://williansiciliano.github.io/git-fav/">Projeto Github Favorites</a>
 
-  - <a href="https://williansiciliano.github.io/proj_focus-timer/" target="_blank">Projeto Focus Timer</a>
+  - <a href="https://williansiciliano.github.io/proj_focus-timer/">Projeto Focus Timer</a>
 
-  - <a href="https://williansiciliano.github.io/fortune-cookie/" target="_blank">Projeto Fortune Cookie</a>
+  - <a href="https://williansiciliano.github.io/fortune-cookie/">Projeto Fortune Cookie</a>
 
-  - <a href="https://williansiciliano.github.io/proj_imc/" target="_blank">Projeto IMC Calculator</a>
+  - <a href="https://williansiciliano.github.io/proj_imc/">Projeto IMC Calculator</a>
 
-  - <a href="https://williansiciliano.github.io/projeto-vivo_essa_paixao/" target="_blank">Projeto Vivo Essa Paixão</a>
+  - <a href="https://williansiciliano.github.io/projeto-vivo_essa_paixao/">Projeto Vivo Essa Paixão</a>
     
-  - <a href="https://williansiciliano.github.io/projeto-calendario-copa-2022/" target="_blank">Projeto Calendário da Copa do Mundo 2022</a>  
+  - <a href="https://williansiciliano.github.io/projeto-calendario-copa-2022/">Projeto Calendário da Copa do Mundo 2022</a>  
 
-  - <a href="https://williansiciliano.github.io/proj-mentorship-form/" target="_blank">Projeto Mentorship Forms</a>
+  - <a href="https://williansiciliano.github.io/proj-mentorship-form/">Projeto Mentorship Forms</a>
 
-  - <a href="https://williansiciliano.github.io/proj_blog-de-gatos/" target="_blank">Projeto Blog de Gatos</a>
 
-  - <a href="https://williansiciliano.github.io/explore-sem-limites/" target="_blank">Projeto Explore sem Limites</a>
   
   
   ## 🤝 Redes Sociais
